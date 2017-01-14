@@ -181,7 +181,7 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <a href="#">Comments</a>
+                                        
                                     </td>
                                 </tr>
                             </table>
